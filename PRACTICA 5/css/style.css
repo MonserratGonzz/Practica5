@@ -1,0 +1,29 @@
+body{
+    background-color: lightcoral;
+    font-family: 'Open sans','Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 22px;
+
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: cadetblue;
+}
+div{
+    color: coral;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid gray;
+    background-color: #6baf33;
+    border-radius: 15px;
+    border: solid 2px #c7c3c3;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #aaaeb1;
+}
